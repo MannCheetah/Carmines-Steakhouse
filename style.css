@@ -1,0 +1,23 @@
+
+header{
+    background-color: burlywood;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+main{
+    background-color: white;
+}
+figure{
+    background-color: burlywood;
+    width: 300px;
+    margin-left: 0;
+    border-style: outset;
+    float: left;
+    position: sticky;
+    top: 0px;
+   
+}
+figure:hover{
+    box-shadow: 5px 5px 5px black;
+}
